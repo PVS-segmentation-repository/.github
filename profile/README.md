@@ -41,3 +41,6 @@ Inside the respository that you have decided to upload your code to, create a pu
 **7. Engage with the PVS community**
 
 Be prepared to answer questions or address issues that users might encounter, or consider setting up a contribution guide if you welcome contributions.
+
+**Contact**
+If you have any questions regarding this initiative or contributing to it, please reach out to the team at merel.vanderthiel@maastrichtuniversity.nl, jose.bernalmoyano@dzne.de or e.vanheese@amsterdamumc.nl!
