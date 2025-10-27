@@ -1,4 +1,4 @@
-# Welcome to the GitHub organisation page for the Perivascular space (PVS) segmentation repository!
+# Welcome to the GitHub organisation page for the Perivascular space (PVS) segmentation code collection repository!
 
 ## The PVS segmentation platform
 Here, you will be able to find a collection of available code to aid with PVS segmentation. This PVS segmetation code collection library aims to collect and share open-source code related to the segmentation and quantification of perivascular spaces based on MRI data, to be used in research and software development.
